@@ -3,6 +3,10 @@
 ## Overview
 This project builds a Decision Tree classifier in RapidMiner to predict Titanic survival (`Survived`) using data cleaning, feature engineering and model evaluation.
 
+<img width="3466" height="1158" alt="image" src="https://github.com/user-attachments/assets/71a4fdc0-f910-4d87-98fb-4d570bfe5427" />
+
+<img width="2973" height="831" alt="image" src="https://github.com/user-attachments/assets/27031bf2-6ed1-480d-869c-aa4501fe690a" />
+
 ## Tools
 - RapidMiner Studio
 - Decision Tree (Gain Ratio)
@@ -11,6 +15,7 @@ This project builds a Decision Tree classifier in RapidMiner to predict Titanic 
 ## Dataset
 Titanic dataset (provided in course materials).
 > Note: Dataset is not included in this repo if restricted by course policy.
+[Titanic_train.csv](https://github.com/user-attachments/files/25329206/Titanic_train.csv)
 
 ## Workflow (RapidMiner Process)
 ### 1) Data Ingestion
