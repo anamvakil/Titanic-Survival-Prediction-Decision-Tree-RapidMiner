@@ -13,8 +13,7 @@ This project builds a Decision Tree classifier in RapidMiner to predict Titanic 
 - Train/Test split + Apply Model + Performance
 
 ## Dataset
-Titanic dataset (provided in course materials).
-> Note: Dataset is not included in this repo if restricted by course policy.
+Titanic dataset (provided in course materials)
 [Titanic_train.csv](https://github.com/user-attachments/files/25329206/Titanic_train.csv)
 
 ## Workflow (RapidMiner Process)
