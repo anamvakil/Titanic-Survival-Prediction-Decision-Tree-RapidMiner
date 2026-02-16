@@ -38,7 +38,7 @@ Created new attributes:
 - Apply Model on test set
 - Performance metrics generated
 
-## Results
+## Results 
 - Accuracy: **75.66%**
 - Confusion matrix + precision/recall available in `/screenshots/05_confusion_matrix.png`
 
